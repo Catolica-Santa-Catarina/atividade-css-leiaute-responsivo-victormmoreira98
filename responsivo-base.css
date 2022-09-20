@@ -1,0 +1,56 @@
+/* Seu CSS neste arquivo */
+/********** Estilos Basae **********/
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+  h1 {
+    margin-bottom: 15px;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 5%;
+  }
+  div.row div {
+    padding: 15px;
+  }
+  section {
+    border: 1px solid black;
+    background-color: #acab6c;
+    width: 100%;
+    height: 150px;
+    font-family: Helvetica;
+    color: white;
+    
+    /* text-align: right; */
+  }
+ 
+ h2 {
+    border: solid 1px black;
+    background-color: blueviolet;
+    float: right;
+    padding: 2%;
+ }
+ 
+ p {
+    clear: right;
+ }
+
+ .h22 {
+    border: solid 1px black;
+    background-color: green;
+    float: right;
+    padding: 2%;
+ }
+ .h23 {
+    border: solid 1px black;
+    background-color: peru;
+    float: right;
+    padding: 2%;
+ }
+    
+    
+    
+
+  
+
+  
