@@ -9,6 +9,7 @@
     text-align: center;
     padding-top: 2%;
     padding-bottom: 5%;
+    
   }
   div.row div {
     padding: 15px;
@@ -29,10 +30,18 @@
     background-color: blueviolet;
     float: right;
     padding: 2%;
+    margin-top: -1px;
+    margin-right: -1px;
+    margin-bottom: 15px;
+    
+    
+    
  }
  
  p {
     clear: right;
+    padding-left: 5%;
+    padding-right: 5%;
  }
 
  .h22 {
@@ -40,12 +49,18 @@
     background-color: green;
     float: right;
     padding: 2%;
+    margin-top: -1px;
+    margin-right: -1px;
+    margin-bottom: 15px;
  }
  .h23 {
     border: solid 1px black;
     background-color: peru;
     float: right;
     padding: 2%;
+    margin-top: -1px;
+    margin-right: -1px;
+    margin-bottom: 15px;
  }
     
     
